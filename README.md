@@ -31,19 +31,6 @@ Una pequeña aplicación Android creada en **Kotlin** que muestra cómo usar un 
 
 ---
 
-## 🧩 Estructura del proyecto
-
-```
-app/
-└── src/
-    └── main/
-        ├── java/com/example/helloformxml/
-        │   └── MainActivity.kt
-        └── res/
-            └── layout/
-                └── activity_main.xml
-```
-
 ## ⚙️ Requisitos
 
 - Android Studio **Arctic Fox (2020.3.1)** o superior  
